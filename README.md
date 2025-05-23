@@ -51,3 +51,4 @@ Now that your site is hosted on GitHub Pages, you can connect it to your own dom
 1. **Link as mirror URL)**: In your BabelFish panel, set the GitHub Pages URL (e.g., `https://your-user-name.github.io/hello-world`) as a "mirror URL". This makes your custom domain a direct reflection of the GitHub Pages site.
 
 2. **Link with IP address**: In your GitHub repository, go to "Settings" > "Pages", and under "Custom domain", enter your domain (e.g., `yourdomain.qom`). Then, in your BabelFish panel, specify the IP addresses of GitHub's servers to point your domain to GitHub Pages.
+Heiio
