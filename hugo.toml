@@ -1,0 +1,48 @@
+baseURL = "http://localhost"
+languageCode = "en-us"
+title = "My Blog"
+theme = "hello-friend-ng"
+
+[params]
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  homeSubtitle = "Decentralized CTO Chain QL1 Information Blog"
+  defaultTheme = "dark"  # or "light"
+  contentTypeName = "posts"
+  backgroundImage = "/img/background.jpg"
+  customCSS = ["/css/custom.css"]
+
+
+[languages]
+  [languages.en]
+    title = "Hello Panda Friends"
+    subtitle = "Decentralized CTO Chain QL1 Information Blog"
+    readOtherPosts = "Read other posts"
+
+
+[menu]
+[[menu.main]]
+    identifier = "about QL1"
+    name = "about QL1"
+    url = "/about QL1"
+[[menu.main]]
+    identifier = "about Babel Fish"
+    name = "about Babel Fish"
+    url = "/about Babel Fish"
+[[menu.main]]
+    identifier = "self-introduction"
+    name = "self-introduction"
+    url = "/self-introduction.md"
+[[menu.main]]
+    identifier = "static site construction"
+    name = "static site construction"
+    url = "/static site construction"
+
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"  # QL1
