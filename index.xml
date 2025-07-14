@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Panda Friends</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Hello Panda Friends</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Jul 2025 23:52:32 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic usage of Hugo</title>
+      <link>http://localhost:1313/static-site-construction/static-site-construction/</link>
+      <pubDate>Sat, 05 Jul 2025 23:52:32 +0900</pubDate>
+      <guid>http://localhost:1313/static-site-construction/static-site-construction/</guid>
+      <description>&lt;p&gt;①Advance preparation&lt;/p&gt;&#xA;&lt;p&gt;■1. Installing Hugo&lt;/p&gt;&#xA;&lt;p&gt;Steps&#xA;Downloading Hugo&#xA;Go to the official Hugo release page (&lt;a href=&#34;https://github.com/gohugoio/hugo/releases%29&#34;&gt;https://github.com/gohugoio/hugo/releases)&lt;/a&gt;.&#xA;Select the latest stable version (e.g. hugo_extended_0.128.0_windows-amd64.zip) and download the .zip file for Windows.&#xA;*The &amp;ldquo;extended&amp;rdquo; version includes additional features, but the normal version is sufficient for basic use.&#xA;Unzipping and arranging&#xA;Right-click the downloaded .zip file and select &amp;ldquo;Extract All&amp;rdquo; to unzip it.&#xA;Move the hugo.exe file contained in the unzipped folder to a directory such as C:\Hugo\bin.&#xA;*If the directory does not exist, create C:\Hugo\bin in Explorer.&#xA;Setting environment variables&#xA;Add C:\Hugo\bin to the system PATH environment variable so that hugo.exe can be run directly from the command prompt.&#xA;How to set it:&#xA;Press the Windows key, search for &amp;ldquo;environment variables&amp;rdquo;, and select &amp;ldquo;Edit system environment variables&amp;rdquo;.&#xA;In the &amp;ldquo;Environment Variables&amp;rdquo; window, find &amp;ldquo;Path&amp;rdquo; under &amp;ldquo;System variables&amp;rdquo; and click &amp;ldquo;Edit&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Babelfish Link Summary</title>
+      <link>http://localhost:1313/about-babel-fish/my-first-post/</link>
+      <pubDate>Sat, 05 Jul 2025 20:31:32 +0900</pubDate>
+      <guid>http://localhost:1313/about-babel-fish/my-first-post/</guid>
+      <description>&lt;p&gt;■Babel Fish Official Website&#xA;&lt;a href=&#34;https://deep-thought.computer/&#34;&gt;https://deep-thought.computer/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Our Babel Fish Team Philosophy&#xA;&lt;a href=&#34;https://deep-thought.computer/about/&#34;&gt;https://deep-thought.computer/about/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Project Overview&#xA;&lt;a href=&#34;https://deep-thought.computer/projects/&#34;&gt;https://deep-thought.computer/projects/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>QL1 Chain Overview</title>
+      <link>http://localhost:1313/about-ql1/about-ql1/</link>
+      <pubDate>Sat, 05 Jul 2025 20:31:32 +0900</pubDate>
+      <guid>http://localhost:1313/about-ql1/about-ql1/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/self-introduction.md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/self-introduction.md/</guid>
+      <description>&lt;h1 id=&#34;pandas-self-introduction-&#34;&gt;Panda&amp;rsquo;s self-introduction 🐼&lt;/h1&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m Rebellious Panda. I&amp;rsquo;ll introduce myself below.&lt;/p&gt;&#xA;&lt;p&gt;⦁Name: Rebellious Panda&lt;/p&gt;&#xA;&lt;p&gt;⦁Origin: COSMOS Ecosystem&lt;/p&gt;&#xA;&lt;p&gt;⦁Favorite foods: Sushi, tempura, beer&lt;/p&gt;&#xA;&lt;p&gt;⦁Hobbies: Hot springs, driving, basketball, guitar&lt;/p&gt;&#xA;&lt;p&gt;I mainly live in the OL1 network and support decentralization.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/@touketupanda&#34;&gt;X-account here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
