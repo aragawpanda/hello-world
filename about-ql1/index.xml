@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About QL1s on Hello Panda Friends</title>
-    <link>//localhost:1313/about-ql1/</link>
+    <link>http://ql1panda.qom/about-ql1/</link>
     <description>Recent content in About QL1s on Hello Panda Friends</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 05 Jul 2025 20:31:32 +0900</lastBuildDate>
-    <atom:link href="//localhost:1313/about-ql1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ql1panda.qom/about-ql1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QL1 Chain Overview</title>
-      <link>//localhost:1313/about-ql1/about-ql1/</link>
+      <link>http://ql1panda.qom/about-ql1/about-ql1/</link>
       <pubDate>Sat, 05 Jul 2025 20:31:32 +0900</pubDate>
-      <guid>//localhost:1313/about-ql1/about-ql1/</guid>
+      <guid>http://ql1panda.qom/about-ql1/about-ql1/</guid>
       <description>&lt;p&gt;test&lt;/p&gt;</description>
     </item>
   </channel>
