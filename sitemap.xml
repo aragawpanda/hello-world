@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313///http://ql1panda.qom/static-site-construction/static-site-construction/</loc>
+    <loc>http://localhost:55736/static-site-construction/static-site-construction/</loc>
     <lastmod>2025-07-05T23:52:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/</loc>
+    <loc>http://localhost:55736/</loc>
     <lastmod>2025-07-05T23:52:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/static-site-construction/</loc>
+    <loc>http://localhost:55736/static-site-construction/</loc>
     <lastmod>2025-07-05T23:52:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/tags/</loc>
+    <loc>http://localhost:55736/tags/</loc>
     <lastmod>2025-07-05T23:52:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/tags/untagged/</loc>
+    <loc>http://localhost:55736/tags/untagged/</loc>
     <lastmod>2025-07-05T23:52:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/about-babel-fish/</loc>
+    <loc>http://localhost:55736/about-babel-fish/</loc>
     <lastmod>2025-07-05T20:31:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/about-ql1/</loc>
+    <loc>http://localhost:55736/about-ql1/</loc>
     <lastmod>2025-07-05T20:31:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/about-babel-fish/my-first-post/</loc>
+    <loc>http://localhost:55736/about-babel-fish/my-first-post/</loc>
     <lastmod>2025-07-05T20:31:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/about-ql1/about-ql1/</loc>
+    <loc>http://localhost:55736/about-ql1/about-ql1/</loc>
     <lastmod>2025-07-05T20:31:32+09:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/self-introduction.md/</loc>
+    <loc>http://localhost:55736/self-introduction.md/</loc>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/authors/</loc>
+    <loc>http://localhost:55736/authors/</loc>
   </url><url>
-    <loc>//localhost:1313///http://ql1panda.qom/categories/</loc>
+    <loc>http://localhost:55736/categories/</loc>
   </url>
 </urlset>

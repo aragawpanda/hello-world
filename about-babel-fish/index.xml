@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Babel Fish on Hello Panda Friends</title>
-    <link>//localhost:1313///http://ql1panda.qom/about-babel-fish/</link>
+    <link>http://localhost:55736/about-babel-fish/</link>
     <description>Recent content in About Babel Fish on Hello Panda Friends</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 05 Jul 2025 20:31:32 +0900</lastBuildDate>
-    <atom:link href="//localhost:1313///http://ql1panda.qom/about-babel-fish/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55736/about-babel-fish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Babelfish Link Summary</title>
-      <link>//localhost:1313///http://ql1panda.qom/about-babel-fish/my-first-post/</link>
+      <link>http://localhost:55736/about-babel-fish/my-first-post/</link>
       <pubDate>Sat, 05 Jul 2025 20:31:32 +0900</pubDate>
-      <guid>//localhost:1313///http://ql1panda.qom/about-babel-fish/my-first-post/</guid>
+      <guid>http://localhost:55736/about-babel-fish/my-first-post/</guid>
       <description>&lt;p&gt;■Babel Fish Official Website&#xA;&lt;a href=&#34;https://deep-thought.computer/&#34;&gt;https://deep-thought.computer/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Our Babel Fish Team Philosophy&#xA;&lt;a href=&#34;https://deep-thought.computer/about/&#34;&gt;https://deep-thought.computer/about/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Project Overview&#xA;&lt;a href=&#34;https://deep-thought.computer/projects/&#34;&gt;https://deep-thought.computer/projects/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
